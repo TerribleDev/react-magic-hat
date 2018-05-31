@@ -16,7 +16,7 @@ React implementation of what I call the [**Magic Hat UI technique**](https://med
 
 ## Features
 
-🚀 [Blazing fast](https://twitter.com/acdlite/status/974390255393505280). 60+ FPS hardware-accelerated CSS transforms, using the [FLIP technique](https://medium.com/r/?url=https%3A%2F%2Faerotwist.com%2Fblog%2Fflip-your-animations%2F%23the-general-approach). Fluid and performant. Thanks to [react-flip-move](https://github.com/joshwcomeau/react-flip-move) for that.
+🚀 [Blazing fast](https://twitter.com/acdlite/status/974390255393505280). 60+ FPS hardware-accelerated CSS transforms, using the [FLIP technique](https://aerotwist.com/blog/flip-your-animations/#the-general-approach). Fluid and performant. Thanks to [react-flip-move](https://github.com/joshwcomeau/react-flip-move) for that.
 
 🎈Extra light, only 6.5kb and no dependencies.
 
